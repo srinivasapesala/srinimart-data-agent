@@ -157,4 +157,4 @@ python agent/runtime.py
 ## Built By
 
 **Srinivasa Pesala** — GenAI & Data Engineering Lead  
-[linkedin.com/in/srinivasa-pesala](https://www.linkedin.com/in/sayantan-bhattacharya) · psrinvas570000@gmail.com
+[[linkedin.com/in/srinivasa-pesala](hw.linkedin.comttps://ww/in/sayantan-bhattacharya)](https://www.linkedin.com/in/srinivasa-p-069ba5127/)  · srinivasa.pesala@gmail.com
